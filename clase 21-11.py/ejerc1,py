@@ -1,0 +1,11 @@
+"""
+comprueba si una edad almacenada en una variable es mayor de edad,es decir que su valoer sea
+mayor de 18.si es asi,imprime el texto eres mayor de edad.en caso contrario,imprime el.
+texto no eres mayor de edad.
+"""
+edad=28
+
+if edad>18:
+    print("eres mayor de edad")
+else:
+    print("NO eres mayor de edad")
